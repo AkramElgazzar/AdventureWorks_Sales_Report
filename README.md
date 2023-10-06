@@ -20,3 +20,6 @@ Data Modeling using Star Schema: Create a star schema data model in Power BI to 
 Data visualizations and extracting insights: Create data visualizations and extract insights to answer the key business questions that were defined in step 1.
 
 This report is a valuable resource for sales and marketing teams, as it provides them with the insights they need to improve their performance.
+
+# Dataset Link:
+https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms
